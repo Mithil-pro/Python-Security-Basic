@@ -1,0 +1,60 @@
+============================================================
+Security recoon tool v2 - SCAN REPORT 
+============================================================
+Target IP: 198.162.1.1
+Start port: 10
+End port: 60
+Scan time: 2026-06-29_19-48-24
+============================================================
+
+Port 10 : unknown service 
+Port 11 : unknown service 
+Port 12 : unknown service 
+Port 13 : unknown service 
+Port 14 : unknown service 
+Port 15 : unknown service 
+Port 16 : unknown service 
+Port 17 : unknown service 
+Port 18 : unknown service 
+Port 19 : unknown service 
+Port 20 : unknown service 
+Port 21 : FTP 
+Port 22 : SSH 
+Port 23 : TELNET 
+Port 24 : unknown service 
+Port 25 : SMTP 
+Port 26 : unknown service 
+Port 27 : unknown service 
+Port 28 : unknown service 
+Port 29 : unknown service 
+Port 30 : unknown service 
+Port 31 : unknown service 
+Port 32 : unknown service 
+Port 33 : unknown service 
+Port 34 : unknown service 
+Port 35 : unknown service 
+Port 36 : unknown service 
+Port 37 : unknown service 
+Port 38 : unknown service 
+Port 39 : unknown service 
+Port 40 : unknown service 
+Port 41 : unknown service 
+Port 42 : unknown service 
+Port 43 : unknown service 
+Port 44 : unknown service 
+Port 45 : unknown service 
+Port 46 : unknown service 
+Port 47 : unknown service 
+Port 48 : unknown service 
+Port 49 : unknown service 
+Port 50 : unknown service 
+Port 51 : unknown service 
+Port 52 : unknown service 
+Port 53 : DNS 
+Port 54 : unknown service 
+Port 55 : unknown service 
+Port 56 : unknown service 
+Port 57 : unknown service 
+Port 58 : unknown service 
+Port 59 : unknown service 
+Port 60 : unknown service 
