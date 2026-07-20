@@ -1,0 +1,5 @@
+google.com - ping: True, web: True
+youtube.com - ping: True, web: True
+github.com - ping: True, web: True
+netflix.com - ping: False, web: True
+amazon.com - ping: False, web: False
